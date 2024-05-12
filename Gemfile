@@ -53,6 +53,9 @@ gem 'capistrano-rbenv', '~> 2.1', '>= 2.1.4'
 gem 'capistrano-rvm'
 gem 'pg'
 gem 'stringio', '3.0.1'
+gem 'execjs'
+gem 'therubyracer'
+gem "figaro"
 # Use Active Storage variants [https://guides.rubyonrails.org/active_storage_overview.html#transforming-images]
 # gem "image_processing", "~> 1.2"
 
